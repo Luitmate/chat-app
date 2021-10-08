@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Lukitmate/chat-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
   }
 }
